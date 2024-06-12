@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{69AE219A-7771-47BC-8FCC-14D32175B5BA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Api-intro PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Api-intro/Controllers/BookController.cs">
+    <Files>
+      <File FileName="Api-intro/Controllers/CategoryController.cs" Line="85" Column="8" />
+      <File FileName="Api-intro/Models/Category.cs" />
+      <File FileName="Api-intro/Models/Book.cs" />
+      <File FileName="Api-intro/Data/AppDbContext.cs" />
+      <File FileName="Api-intro/Controllers/BookController.cs" Line="14" Column="29" />
+      <File FileName="Api-intro/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Api-intro/Program.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Api-intro" expanded="True">
+            <Node name="Api-intro" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="BookController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
